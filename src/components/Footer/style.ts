@@ -17,6 +17,7 @@ justify-content: space-evenly;
         font-family: 'Roboto', sans-serif;
         font-weight: 900;
         font-size: 40px;
+        color: white;
     }
 
 `

@@ -15,7 +15,8 @@ function Home() {
         </div>
         <div>
           <h1>
-          Proporciono lindos sorrisos que possam encantar e levar alegria ao mundo
+            Proporciono lindos sorrisos que possam encantar e levar alegria ao
+            mundo
           </h1>
           <p>
             O meu foco é em um atendimento de alta qualidade, cuidadosamente
@@ -23,7 +24,6 @@ function Home() {
             sorrisos. Descubra comigo o seu sorriso escondido e conquiste o
             sorriso que sempre sonhou!
           </p>
-        
         </div>
       </Container>
     </>
