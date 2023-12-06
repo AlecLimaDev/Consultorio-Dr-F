@@ -27,7 +27,7 @@ function consultorioGeral() {
             <li>Orientações para higiene bucal</li>
           </p>
           <div>
-            <img src="src/assets/img/5.jpg" alt="Foto" />
+            <img src="https://i.postimg.cc/RV87cqL2/5.jpg" alt="Foto" />
           </div>
         </div>
       </Container>

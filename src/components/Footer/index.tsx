@@ -1,7 +1,7 @@
 import { ContainerClient, ContainerContact } from "./style";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation, Pagination, Scrollbar, A11y } from "swiper/modules";
-import { FaInstagram, FaWhatsapp, FaLocationArrow } from "react-icons/fa6";
+import { FaInstagram, FaWhatsapp, FaLocationArrow } from "react-icons/fa";
 import { feedback } from "../../data/feedback";
 
 function Footer() {
