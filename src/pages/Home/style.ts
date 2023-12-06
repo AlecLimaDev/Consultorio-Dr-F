@@ -39,14 +39,23 @@ export const Container = styled.section`
             margin: 70px;
         }
 
-        button {
-            min-width: 500px;
-            padding: 15px;
-            background-color: #00FF00;
-            border: none;
-            color: black;
-            font-family: sans-serif;
-            border-radius: 200px;
-            cursor: pointer;
-        }
+        
+
+
+
+        @media only screen and (max-width: 768px) {
+        
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+
+            p {
+                font-size: 28px;
+            }
+
+            iframe {
+                max-width: 90%;
+            }
+            
+          }
 `

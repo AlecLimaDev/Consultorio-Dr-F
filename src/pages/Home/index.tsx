@@ -11,7 +11,7 @@ function Home() {
             src="https://www.youtube.com/embed/n-SxEMcN7Aw?si=2XTuq-duTrqLjzZb"
             title="YouTube video player"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          ></iframe>
+           />
         </div>
         <div>
           <h1>
