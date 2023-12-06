@@ -20,6 +20,40 @@ justify-content: space-evenly;
         color: white;
     }
 
+    button {
+        padding: 10px;
+        border-radius: 10px;
+        background-color: #00815A;
+    }
+
+
+    button a {
+        text-decoration: none;
+        color: #D2CF84;
+        font-weight: 800;
+    }
+
+
+    @media only screen and (max-width: 449px) {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        gap: 40px;
+      }
+
+      @media only screen and (max-width: 687px) {
+        padding: 2rem;
+
+
+        button {
+            width: 100%;
+        }
+
+        button a {
+            text-align: center;
+        }
+      }
+
 `
 
 

@@ -10,12 +10,12 @@ function consultorioGeral() {
         <div>
           <p>
             É a porta de entrada dos pacientes para a prevenção, diagnóstico e
-            tratamento. O dentista clínico geral vai realizar a avaliação
-            integral da saúde bucal do paciente. Vai escutar as suas queixas,
+            tratamento. Eu vou realizar a avaliação
+            integral da saúde bucal do paciente. Vou escutar as suas queixas,
             para então realizar o diagnóstico e o planejamento adequado do
             tratamento. Caso seja necessário, o paciente será encaminhado para
             um dentista especializado. Veja alguns dos procedimentos realizados
-            no consultório:
+            no meu consultório:
             <br />
             <br />
             <li>Aplicação de flúor</li>
@@ -27,7 +27,7 @@ function consultorioGeral() {
             <li>Orientações para higiene bucal</li>
           </p>
           <div>
-            <img src="src/assets/img/5.jpg" alt="" />
+            <img src="src/assets/img/5.jpg" alt="Foto" />
           </div>
         </div>
       </Container>

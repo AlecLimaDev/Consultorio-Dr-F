@@ -10,8 +10,8 @@ function Especialidade() {
         <div>
           <h1>Odontologia</h1>
           <p>
-            Vamos cuidar da saúde bucal do seu bem mais precioso: seu filho, sua
-            filha! A primeira consulta deve acontecer com o bebê ainda na
+          Vou cuidar da saúde bucal e do seu bem mais precioso: seu filho, sua
+            filha e você! A primeira consulta deve acontecer com o bebê ainda na
             barriga, durante a gestação. Nesse momento a mamãe e o papai vão
             receber orientações fundamentais para a manutenção da saúde bucal da
             criança. Depois que o bebê nascer, é hora de retornar a clínica.
@@ -22,9 +22,15 @@ function Especialidade() {
           </p>
         </div>
         <div>
-            <h1>Ortodontia</h1>
-            <p>Dentes tortos e arcadas que não se encaixam corretamente podem gerar diversos problemas para a sua saúde e qualidade de vida.
-Nosso atendimento é focado na intervenção inicial do problema durante a infância, e corretivos durante a adolescência e na fase adulta. Trabalhamos com diversas possibilidades de tratamentos e aparelhos ortodônticos.</p>
+          <h1>Ortodontia</h1>
+          <p>
+            Dentes tortos e arcadas que não se encaixam corretamente podem gerar
+            diversos problemas para a sua saúde e qualidade de vida. Nosso
+            atendimento é focado na intervenção inicial do problema durante a
+            infância, e corretivos durante a adolescência e na fase adulta.
+            Trabalhamos com diversas possibilidades de tratamentos e aparelhos
+            ortodônticos.
+          </p>
         </div>
       </Container>
     </>

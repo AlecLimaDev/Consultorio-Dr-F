@@ -39,9 +39,6 @@ export const Container = styled.section`
         }
 
 
-
-
-
         @keyframes Dentes {
             to {
               transform: rotate(1deg) translate(0px, 0px);
@@ -49,5 +46,18 @@ export const Container = styled.section`
           }
 
 
+          @media only screen and (max-width: 768px) {
+            body {
+                font-size: 55%;
+            }
+
+           @media (max-width: 600px) {
+            div {
+                display: flex;
+                flex-direction: column;   
+            }
+
+
+          }
 
 `

@@ -26,7 +26,18 @@ export const Container = styled.section`
             box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
         }
 
+
+
+
     
+          @media only screen and (max-width: 768px) {
+            
+            .slide-item {
+                object-fit: cover;
+                max-width: 80%;
+            }
+            
+          }
 
 
         

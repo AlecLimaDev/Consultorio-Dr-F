@@ -1,7 +1,7 @@
 import { Navigation, Pagination, Scrollbar, A11y } from "swiper/modules";
 import { Container } from "./style";
 import { Swiper, SwiperSlide } from "swiper/react";
-import { photos } from "../../database/resultados";
+import { photos } from "../../data/resultados";
 
 function Resultados() {
   return (
