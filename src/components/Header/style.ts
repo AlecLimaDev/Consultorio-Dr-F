@@ -20,7 +20,7 @@ padding: 2px;
     }
 
     ul li a {
-        min-width: 500px;
+            min-width: 500px;
             padding: 15px;
             background-color: #fbec5d;
             border: none;
@@ -28,7 +28,9 @@ padding: 2px;
             font-family: sans-serif;
             border-radius: 200px;
             cursor: pointer;
-    }
+            text-decoration: none;
+    } 
+
 
     ul button {
         font-family: sans-serif;
@@ -43,6 +45,26 @@ padding: 2px;
         color: black;
         margin-left: 20px;
     }
+
+
+
+    @media (max-width: 600px) {
+
+        figure {
+            font-weight: 800;
+            color: black;
+        }
+
+        ul {
+            position: relative; 
+            display: flex;
+            flex-direction: column;
+        }
+
+        li {
+            font-size: 12px;
+            font-weight: 700;
+        }
 
 `
 
